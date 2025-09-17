@@ -9,7 +9,7 @@ Creating Python code to encrypt and decrypt text files.
 ## Screenshot
 
 ### Normal text file
-![Normal text file.](https://github.com/paulootaviodev/dio-cybersecurity-desagio-ransomware/Screenshot1.png "Normal text file.")
+![Normal text file.](https://github.com/paulootaviodev/dio-cibersecurity-desafio-ransomware/blob/master/images/Screenshot_1.png "Normal text file.")
 
 ### Encrypted text file
-![Encrypted text file.](https://github.com/paulootaviodev/dio-cybersecurity-desagio-ransomware/Screenshot2.png "Encrypted text file.")
+![Encrypted text file.](https://github.com/paulootaviodev/dio-cibersecurity-desafio-ransomware/blob/master/images/Screenshot2.png "Encrypted text file.")
